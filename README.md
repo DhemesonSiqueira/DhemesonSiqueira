@@ -1,6 +1,6 @@
 ![Banner](https://media-exp1.licdn.com/dms/image/C4D16AQFn7I_xhdFwGw/profile-displaybackgroundimage-shrink_350_1400/0/1591121958873?e=1613001600&v=beta&t=2rIbxYT_o1ObQbFUoQVckhj208TFFT4pGNV3leRufrc)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width='40' align="left"/><h2>Olá! Eu sou Dhemeson Siqueira</h2>
+<img alt="Hand" src="https://github.com/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Olá! Eu sou Dhemeson Siqueira</h2>
 
 <!-- ## 👋 &nbsp;Olá! Eu sou Dhemeson Siqueira -->
 
@@ -31,7 +31,7 @@
 
 <p align="center">
 <a href="https://github.com/DhemesonSiqueira">
-  <img height="180em" src="https://https://github-readme-stats-eight-theta.vercel.app/api?username=DhemesonSiqueira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DhemesonSiqueira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DhemesonSiqueira&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
@@ -40,5 +40,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/dhemesonsiqueira-5898b9184/"><img src="https://img.shields.io/badge/-Dhemeson%20Siqueira-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:dhemeson_loran@hotmail.com"><img src="https://img.shields.io/badge/-Dhemeson_Loran@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:dhemeson_loran@hotmail.com"><img src="https://img.shields.io/badge/-dhemeson_loran@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
