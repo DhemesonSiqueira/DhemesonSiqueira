@@ -28,7 +28,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 \
 \
-
+\
+.
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
