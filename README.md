@@ -10,7 +10,7 @@
 🎓 &nbsp;Eu sou Técnico em Computação Gráfica e estou cursando Tecnologia Sistemas para Internet.\
 🌱 &nbsp;Estou estudando desenvolvimento Frontend, UI/UX, e um pouco de Backend (REST API).\
 ✍️ &nbsp;No meu tempo livre gosto de ouvir música, assistir filmes e séries, além de tentar adestrar meu cão 🐕.\
-✉️ &nbsp;Você pode entrar em contato comigo pelo email dhemeson_loran@hotmail.com!.\
+✉️ &nbsp;Você pode entrar em contato comigo pelo email dhemeson_loran@hotmail.com!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -26,6 +26,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+
+
+
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
