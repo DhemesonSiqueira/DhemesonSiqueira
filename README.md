@@ -42,6 +42,6 @@
 ### 🤝🏻 &nbsp;Contato
 
 <p align="center">
-<a href="https://www.linkedin.com/in/dhemesonsiqueira-5898b9184/"><img src="https://img.shields.io/badge/-Dhemeson%20Siqueira-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dhemesonsiqueira/"><img src="https://img.shields.io/badge/-Dhemeson%20Siqueira-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dhemeson_loran@hotmail.com"><img src="https://img.shields.io/badge/-Dhemeson Siqueira-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
