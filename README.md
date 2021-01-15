@@ -6,8 +6,8 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
-💡 &nbsp;Eu gosto de desenvolver softwares e para mim o aprendizado é contínuo.\
-🎓 &nbsp;Eu sou Técnico em Computação Gráfica e estou cursando Tecnologia Sistemas para Internet.\
+💡 &nbsp;Gosto de resolver problemas e uso a tecnologia como ferramenta.\
+🎓 &nbsp;Eu sou Técnico em Computação Gráfica e estou cursando Tecnologia em Sistemas para Internet.\
 🌱 &nbsp;Estou estudando desenvolvimento Frontend, UI/UX, e um pouco de Backend (REST API).\
 ✍️ &nbsp;No meu tempo livre gosto de ouvir música, assistir filmes e séries, além de tentar adestrar meu cão 🐕.\
 ✉️ &nbsp;Você pode entrar em contato comigo pelo email dhemeson_loran@hotmail.com!
