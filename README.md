@@ -1,4 +1,4 @@
-![Banner](https://media-exp1.licdn.com/dms/image/C4D16AQFn7I_xhdFwGw/profile-displaybackgroundimage-shrink_350_1400/0/1591121958873?e=1613001600&v=beta&t=2rIbxYT_o1ObQbFUoQVckhj208TFFT4pGNV3leRufrc)
+<!-- ![Banner](https://media-exp1.licdn.com/dms/image/C4D16AQFn7I_xhdFwGw/profile-displaybackgroundimage-shrink_350_1400/0/1591121958873?e=1613001600&v=beta&t=2rIbxYT_o1ObQbFUoQVckhj208TFFT4pGNV3leRufrc) -->
 
 <img alt="Hand" src="https://github.com/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Olá! Eu sou Dhemeson Siqueira</h2>
 
@@ -6,9 +6,9 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
-💡 &nbsp;Gosto de resolver problemas e uso a tecnologia como ferramenta.\
-🎓 &nbsp;Eu sou Técnico em Computação Gráfica e estou cursando Tecnologia em Sistemas para Internet.\
-🌱 &nbsp;Estou estudando desenvolvimento Frontend, UI/UX, e um pouco de Backend (REST API).\
+💡 &nbsp;Gosto de resolver problemas usando a programação.\
+🎓 &nbsp;Eu sou formado em Tecnologia em Sistemas para Internet e sou Técnico em Computação Gráfica.\
+🌱 &nbsp;Sou desenvolvedor Frontend com foco em JavaScript/TypeScript e React.\
 ✍️ &nbsp;No meu tempo livre gosto de ouvir música, assistir filmes e séries, além de tentar adestrar meu cão 🐕.\
 ✉️ &nbsp;Você pode entrar em contato comigo pelo email dhemeson_loran@hotmail.com!
 
