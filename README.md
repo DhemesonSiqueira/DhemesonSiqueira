@@ -7,10 +7,9 @@
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
 💡 &nbsp;Gosto de resolver problemas usando a programação.\
-🎓 &nbsp;Eu sou formado em Tecnologia em Sistemas para Internet e sou Técnico em Computação Gráfica.\
-🌱 &nbsp;Sou desenvolvedor Frontend com foco em JavaScript/TypeScript e React.\
-✍️ &nbsp;No meu tempo livre gosto de ouvir música, assistir filmes e séries, além de tentar adestrar meu cão 🐕.\
-✉️ &nbsp;Você pode entrar em contato comigo pelo email dhemeson_loran@hotmail.com!
+🎓 &nbsp;Eu sou Tecnólogo em Sistemas para Internet e Técnico em Computação Gráfica.\
+🌱 &nbsp;Sou desenvolvedor Fullstack com foco em JavaScript/TypeScript.\
+✉️ &nbsp;Você pode entrar em contato comigo pelo e-mail dhemeson_loran@hotmail.com!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -19,12 +18,21 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;\
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=NESTJS)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Shadcn/ui](https://img.shields.io/badge/-Shadcn/ui-05122A?style=flat&logo=shadcnui)&nbsp;
+![Zod](https://img.shields.io/badge/-Zod-05122A?style=flat&logo=zod)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 \
 \
