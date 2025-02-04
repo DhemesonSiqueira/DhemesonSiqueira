@@ -23,6 +23,7 @@
 ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=NESTJS)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=PRISMA)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
